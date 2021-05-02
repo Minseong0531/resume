@@ -46,8 +46,9 @@ footer {
 }
 
 .about-me-text {
-    font-size: 11px;
+    font-size: 24px;
     line-height: 16px;
+    text-align: center;
 
 }
 
@@ -97,4 +98,40 @@ footer {
 .sns-wrap{
     float: right;
     margin: 2px;
+}
+
+.intro-text {
+    font-size: 11px;
+    line-height: 16px;
+    font-weight: bolder;
+}
+
+.intro-subtext {
+    font-size: 11px;
+    line-height: 16px;
+    color: #282828;
+}
+
+.intro2-text {
+    font-size: 11px;
+    line-height: 16px;
+    font-weight: bolder;
+}
+
+.intro2-subtext {
+    font-size: 11px;
+    line-height: 16px;
+    color: #282828;
+}
+
+.license-text {
+    font-size: 11px;
+    line-height: 16px;
+    font-weight: bolder;
+}
+
+.license-subtext {
+    font-size: 11px;
+    line-height: 16px;
+    color: #282828;
 }
